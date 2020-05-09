@@ -4,7 +4,6 @@
 This repository contains solutions to Hackerrank practice problems with Python 3.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/christiangobin/hackerrank_py?style=plastic)](https://github.com/christiangobin/hackerrank_py)
-[![GitHub repo size](https://img.shields.io/github/repo-size/christiangobin/hackerrank_py?style=plastic)](https://github.com/christiangobin/hackerrank_py)
 <hr>
 <ul>
   
