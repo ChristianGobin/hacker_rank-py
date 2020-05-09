@@ -15,4 +15,6 @@ This repository contains solutions to Hackerrank practice problems with Python 3
   
   - Tuples | [Problem](https://www.hackerrank.com/challenges/python-tuples/problem) | [Solution](https://github.com/ChristianGobin/hackerrank_py/blob/master/tuples_soln.py) | Score: 10
 
+- Finding the percentage | [Problem](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [Solution](https://github.com/ChristianGobin/hackerrank_py/blob/master/percentage_soln.py) | Score: 10
+
 </ul>
