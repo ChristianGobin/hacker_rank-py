@@ -1,2 +1,2 @@
 # hacker_rank-py
-HackerRank python problems with my solutions.
+HackerRank Python problems with my solutions.
