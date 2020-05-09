@@ -6,7 +6,6 @@ This repository contains solutions to Hackerrank practice problems with Python 3
 [![GitHub last commit](https://img.shields.io/github/last-commit/christiangobin/hackerrank_py?style=plastic)](https://github.com/christiangobin/hackerrank_py)
 [![GitHub repo size](https://img.shields.io/github/repo-size/christiangobin/hackerrank_py?style=plastic)](https://github.com/christiangobin/hackerrank_py)
 <hr>
-- Problems and Solutions
 <ul>
   
   - Nested-Lists | [Problem](https://www.hackerrank.com/challenges/nested-list/problem) | [Solution](https://github.com/christiangobin/hackerrank_py/nested_list_soln.py) | Score: 10
