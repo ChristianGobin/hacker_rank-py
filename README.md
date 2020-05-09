@@ -7,6 +7,12 @@ This repository contains solutions to Hackerrank practice problems with Python 3
 [![GitHub repo size](https://img.shields.io/github/repo-size/christiangobin/hackerrank_py?style=plastic)](https://github.com/christiangobin/hackerrank_py)
 <hr>
 - Problems and Solutions
+<ul>
+  
   - Nested-Lists | [Problem](https://www.hackerrank.com/challenges/nested-list/problem) | [Solution](https://github.com/christiangobin/hackerrank_py/nested_list_soln.py) | Score: 10
+  
   - Find the Runner-Up Score | [Problem](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [Solution](https://github.com/christiangobin/hackerrank_py/runner_up_soln.py) | Score: 10
+  
   - Tuples | [Problem](https://www.hackerrank.com/challenges/python-tuples/problem) | [Solution](https://github.com/christiangobin/hackerrank_py/tuples_soln.py) | Score: 10
+
+</ul>
