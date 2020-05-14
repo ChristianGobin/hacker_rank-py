@@ -17,4 +17,6 @@ This repository contains solutions to Hackerrank practice problems with Python 3
 
 - Finding the Percentage | [Problem](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [Solution](https://github.com/ChristianGobin/hackerrank_py/blob/master/percentage_soln.py) | Score: 10
 
+- Capitalize! | [Problem](https://www.hackerrank.com/challenges/capitalize/problem) | [Solution](https://github.com/ChristianGobin/hackerrank_py/blob/master/capitalize_soln.py) | Score: 20
+
 </ul>
