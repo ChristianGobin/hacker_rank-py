@@ -1,6 +1,6 @@
 def capitalized(s):
-    s = s.split(" ")
-    return " ".join(s[0][0].upper())
+    index_space = s.index(" ")
+    return index_space
 
 
-print(capitalized("jon jones"))
+print(capitalized("jon    jones   ok"))
