@@ -6,7 +6,7 @@
   <li>API Requests</li>  
   <li>Pandas, Numpy, Tensorflow</li> 
 </ul>
-## Console Games
+<h4> Console Games </h4>
 <ul>
   <li>Rock Paper Scissors</li>
 </ul>
