@@ -30,11 +30,8 @@ pop
 insert
 
 """
-
 integer_array = [22, 43, 11, 54, 90]
 integer_array.sort(reverse = True)
-print(integer_array)
-
 integer_array.append("S")
 integer_array.clear()
-print(integer_array)
+
