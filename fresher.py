@@ -12,10 +12,29 @@ initial_velocity = 30 #m/s
 acceleration = -9.8 #m/s^2
 time = 6 #seconds
 
-# Function uses the kinomatic equation to find final velocity of a moving body, given 4 parameters
+"""
+Function uses a kinematic equation to find final velocity of a moving body, given: v0, acceleration, time(s)
+"""
 def find_final_velocity(mass, initial_velocity, acceleration, time):
 	final_velocity = initial_velocity + (acceleration * time)
 	print("The Final Velocity = " + str(final_velocity) + " m/s")
 	return final_velocity
 
 find_final_velocity(mass, initial_velocity, acceleration, time)
+
+"""
+Array Methods
+sort
+reverse
+pop
+insert
+
+"""
+
+integer_array = [22, 43, 11, 54, 90]
+integer_array.sort(reverse = True)
+print(integer_array)
+
+integer_array.append("S")
+integer_array.clear()
+print(integer_array)
