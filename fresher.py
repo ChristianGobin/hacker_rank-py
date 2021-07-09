@@ -33,5 +33,11 @@ insert
 integer_array = [22, 43, 11, 54, 90]
 integer_array.sort(reverse = True)
 integer_array.append("S")
-integer_array.clear()
+
+# List Comprehension with conditionals
+basic_numbers = [1,2,3,4,56,73,123,66,32]
+doubled_evens = [num * 2 for num in basic_numbers if num % 2 == 0] # Double even number -> append to list
+
+double_evens_odds_plus_one = [num * 2 if num % 2 == 0 else num + 1 for num in basic_numbers] # Double even numbers and add one to odd -> append to list
+print(double_evens_odds_plus_one)
 
