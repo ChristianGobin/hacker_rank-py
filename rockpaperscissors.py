@@ -9,7 +9,7 @@ def rps_game():
 	user_choice = str(input("1,2,3 Shoot: (Enter Your Choice)\n")).lower()
 	possible_choices = ['rock', 'paper', 'scissors']
 	computer_choice = possible_choices[math.floor(random.random() * len(possible_choices))]
-	play_again = 0
+	play_again = "yes"
 	while user_choice not in possible_choices:
 		user_choice = str(input("Try Again \nEnter a valid choice: ")).lower()
 	while user_choice is computer_choice:
