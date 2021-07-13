@@ -11,7 +11,7 @@
   <li>Rock Paper Scissors</li>
   <li>
     <a href="https://www.hackerrank.com/challenges/string-validators/problem"> 
-      hackerrank String Validators
+      Hacker Rank String Validators Problem
     </a> 
   </li>
 </ul>
