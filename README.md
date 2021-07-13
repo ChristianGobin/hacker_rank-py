@@ -9,4 +9,9 @@
 <h4> Console Games </h4>
 <ul>
   <li>Rock Paper Scissors</li>
+  <li>
+    <a href="https://www.hackerrank.com/challenges/string-validators/problem"> 
+      hackerrank String Validators
+    </a> 
+  </li>
 </ul>
