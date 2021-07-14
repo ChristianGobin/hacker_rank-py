@@ -19,12 +19,15 @@
     <a href="https://www.codewars.com/kata/5300901726d12b80e8000498/train/python">Code Wars: Fizz Buzz</a>
   </li>
   <li>
-    <a href="https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/python">Code Wars : Shortest word</a>
+    <a href="https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/python">Code Wars: Shortest word</a>
   </li>
   <li>
     List Comprehension Refresh
   </li>
   <li>
     <a href="https://www.codewars.com/kata/546e2562b03326a88e000020/train/python">Code Wars: Square Every Digit</a>
+  </li>
+  <li>
+    <a href="https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/train/python"> Code Wars: Regex Validate Pin Code </a>
   </li>
 </ul>
