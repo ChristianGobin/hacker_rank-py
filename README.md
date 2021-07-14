@@ -23,4 +23,7 @@
   <li>
     List Comprehension Refresh
   </li>
+  <li>
+    <a href="https://www.codewars.com/kata/546e2562b03326a88e000020/train/python">Code Wars: Square Every Digit</a>
+  </li>
 </ul>
