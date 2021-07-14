@@ -7,6 +7,7 @@
   <li>API Requests</li>  
   <li>Pandas, Numpy, Tensorflow</li> 
 </ul>
+<hr/>
 <ul>
   <li>Rock Paper Scissors</li>
   <li>
