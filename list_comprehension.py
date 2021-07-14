@@ -19,4 +19,3 @@ print("Total cash for a year from rent: $" + str(one_year_rent))
 #Capitalize each name of the tenant and store in a new list.
 capitalized_names = [name.capitalize() for name in tenants_rent['Tenant_Names']]
 print(capitalized_names)
-
