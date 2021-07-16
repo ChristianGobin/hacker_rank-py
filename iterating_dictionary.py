@@ -1,11 +1,16 @@
 #!/usr/bin/env python3
 
-random_dict = {
-	'users' : ['mark', 'john', 'victor', 'james', 'tony'],
-	'speed' : 'slow',
-	'average' : 22.01
+dict_game_entity = {
+	'Users' : { 
+		'John': 50,
+		'Jacob': 100
+		'Sally' : 50
+	},
+	'Npc' : {
+		'Healer' : 1,
+		'Pirate' : 1,
+		'Transport' : 1
+	},
+	'Lives' : 3
 }
 
-print(random_dict.items())
-for item in random_dict['users']:
-	print(item.capitalize())
