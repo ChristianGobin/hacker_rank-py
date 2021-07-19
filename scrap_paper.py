@@ -41,3 +41,13 @@ doubled_evens = [num * 2 for num in basic_numbers if num % 2 == 0] # Double even
 double_evens_odds_plus_one = [num * 2 if num % 2 == 0 else num + 1 for num in basic_numbers] # Double even numbers and add one to odd -> append to list
 print(double_evens_odds_plus_one)
 
+
+
+#################
+def amper_names(names):
+	pass
+	# names = [{},{},{}] <- an array of hashes
+	# need to return different values based on length of hash array.
+
+
+
