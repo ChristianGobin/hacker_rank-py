@@ -1,4 +1,4 @@
-# General Python
+# Python3
 <hr/>
 <ul>
   <li>Back-end development</li>
