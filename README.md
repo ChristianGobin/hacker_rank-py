@@ -9,9 +9,9 @@
   <li>Flask</li>
 </ul>
 <hr/>
-<h6>
+<h4>
   Contents
-</h6>
+</h4>
 <ul>
   <li>Rock Paper Scissors</li>
   <li>
