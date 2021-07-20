@@ -5,3 +5,4 @@ def square_digits(str_num_seq):
     arr_of_nums = [str(int(i)**2) for i in str_num_seq_1] # make array of squared int values from first array, store as string array. ['x.' , 'i.', 'j.', 'k.']
     answer = int("".join(arr_of_nums)) # join string together to make one number -> convert joined string to int
     return answer
+
