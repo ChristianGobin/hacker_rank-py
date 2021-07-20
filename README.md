@@ -59,4 +59,10 @@
   <dd>
     inc
   </dd>
+  <dt>
+    <a href="https://www.codewars.com/kata/552c028c030765286c00007d/train/python">Code Wars: IQ Test</a>
+  </dt>
+  <dd>
+    Given a string array of numbers: find the number that is different in evenness to the other numbers in the stirng.
+  </dd>
 </dl>
