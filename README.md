@@ -1,9 +1,8 @@
-# Python
+# General Python
 <hr/>
 <ul>
-  <li>Basic Python, Data Types, Algorithms, Time Complexity, Sorting</li>  
-  <li>HackerRank Problem Solutions</li>
-  <li>Code Wars Problems</li>
+  <li>HackerRank</li>
+  <li>Code Wars</li>
   <li>Leet Code</li>
   <li>API Requests</li>
   <li>Flask</li>
