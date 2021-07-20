@@ -4,7 +4,6 @@
   <li>HackerRank</li>
   <li>Code Wars</li>
   <li>Leet Code</li>
-  <li>API Requests</li>
   <li>Flask</li>
 </ul>
 <hr/>
