@@ -1,34 +1,27 @@
 """
-def validate_pin(pin):
-    my_pin = [int(c) for c in pin]
-    if(len(my_pin) != 4 and len(my_pin) != 6):
-        return false
-        bool_pin_check = [item.isdigit() for item in my_pin]
-        print(bool_pin_check)
-    else:
-        for item in my_pin:
-            if(item.isdigit() == True):
-                return true
-            else:
-                return false
-   
-print(validate_pin("1234"))
+Constraints:
+    Pin's must be 4 or 6 digits long.
+    Data Type of characters must ONLY be digits.
 """
-my_input = "1351"
-my_input_transformed = [int(c) for c in my_input]
-for i in my_input_transformed:
-    if(type(i) == int):
-        print(True)
-is_a_number = type(my_input_transformed)
-print(is_a_number)
-print(my_input_transformed)
-print(len(my_input_transformed))
-length_of_input = len(my_input_transformed)
 
-if length_of_input != 4 and length_of_input != 6:
-    print(False)
-else:
-
-    print(True)
+def validate_pin(pin):
+    pin_length = len(pin) #get pin length
+    true_array = [] #store boolean value after checking data type of pin characters
+    if pin_length != 4 and pin_length != 6: #check pin length
+        return False
+    else:
+        for char in pin: #test data type of character in pin
+        #append bool value to array that represents if each character is a digit
+            if char.isdigit() == True:
+                true_array.append(True) 
+            else:
+                true_array.append(False)
     
- #Check if all items in list are digits. 
+    #check if array of booleans contains any false values,
+    #any false value in array would mean a character in the pin is not a digit and thus not valid
+    if False in true_array:
+        return False
+    else:
+        return True
+
+            
