@@ -8,9 +8,9 @@
   <li>Flask</li>
 </ul>
 <hr/>
-<h4>
+<h2>
   Contents
-</h4>
+</h2>
 <dl>
   <dt>Rock Paper Scissors</dt>
   <dd>
