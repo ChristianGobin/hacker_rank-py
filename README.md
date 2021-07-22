@@ -5,6 +5,8 @@
   <li>HackerRank</li>
   <li>Code Wars</li>
   <li>Leet Code</li>
+  <li>Arduino</li>
+  <li>Embedded</li>
   <li>Flask</li>
 </ul>
 <hr/>
