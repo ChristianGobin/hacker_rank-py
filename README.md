@@ -81,4 +81,10 @@
   <dd>
     Given an array of ints, find the int that is unique
   </dd>
+  <dt>
+    Mobile Suit API
+  </dt>
+  <dd>
+    Notable Pilots and their corresponding mobile suits from the series Gundam.
+  </dd>
 </dl>
