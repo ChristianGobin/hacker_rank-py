@@ -89,11 +89,11 @@
     Given an array of ints, find the int that is unique
   </dd>
   <dt>
+  <a href="https://github.com/ChristianGobin/python_3/blob/master/mobile_suits_dict.py">
     Mobile Suit API
+  </a>
   </dt>
   <dd>
-    <a href="https://github.com/ChristianGobin/python_3/blob/master/mobile_suits_dict.py">
-      Notable Pilots and their corresponding mobile suits from the series Gundam.
-    </a>
+     Notable Pilots and their corresponding mobile suits from the series Gundam.
   </dd>
 </dl>
