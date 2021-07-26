@@ -63,7 +63,7 @@
     Constraint -> Must be 4 or 6 ints long. Must be all digit data type.
   </dd>
   <dt>
-    <a href="https://www.codewars.com/kata/54da539698b8a2ad76000228/train/python">Code Wars: Take a Ten Minute Walk</a>
+    <a href="https://www.codewars.com/kata/54da539698b8a2ad76000228/train/python">Code Wars: Take a Ten Minute Walk</a>:construction:
   </dt>
   <dd>
     inc
