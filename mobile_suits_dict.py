@@ -8,6 +8,6 @@ mbs_data = {
 	'Hero' : ['Wing-Gundam-1', 'Epyon'],
 	'Zechs', ['Tall-Geese', 'Epyon'],
 	'Trowa' : 'Heavy-Arms',
-	'Duo' : 'Death-Scythe,
-	'AI-ML' : ['Leo', 'Mobile Suit Dolls']
+	'Duo' : 'Death-Scythe',
+	'AI-ML' : ['Leo', 'Mobile Suit Dolls'] #Machine Learning AI Piloted
 }
