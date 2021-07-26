@@ -83,7 +83,7 @@
     How many years does the town need to see its population greater or equal to p = 1200 inhabitants?
   </dd>
   <dt>
-    <a href="https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/python">Code Wars: Find the unique number</a>
+    <a href="https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/python">:white_check_mark: Code Wars: Find the unique number</a>
   </dt>
   <dd>
     Given an array of ints, find the int that is unique
