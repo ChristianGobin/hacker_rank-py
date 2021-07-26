@@ -13,7 +13,8 @@
   Contents
 </h2>
 <dl>
-  <dt>Rock Paper Scissors</dt>
+  <dt>
+    <a href="https://github.com/ChristianGobin/python_3/blob/master/rockpaperscissors.py"> Rock Paper Scissors </a> </dt>
   <dd>
     Console Rock Paper Scissors Game. Takes user input and uses RNG to get computer pick. Prints winner to console.
   </dd>
