@@ -14,7 +14,14 @@
 </h2>
 <dl>
   <dt>
+    <a href="https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/python"> Code Wars: String Ends With? </a>
+  </dt>
+  <dd>
+    Define a function that takes 2 params: def ends_with(string, ending), Check if the string ends using the given characters of the ending parameter.
+  </dd>
+  <dt>
     <a href="https://github.com/ChristianGobin/python_3/blob/master/rockpaperscissors.py"> Rock Paper Scissors </a> </dt>
+  </dt>
   <dd>
     Console Rock Paper Scissors Game. Takes user input and uses RNG to get computer pick. Prints winner to console.
   </dd>
