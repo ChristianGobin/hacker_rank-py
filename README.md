@@ -85,6 +85,8 @@
     Mobile Suit API
   </dt>
   <dd>
-    Notable Pilots and their corresponding mobile suits from the series Gundam.
+    <a href="https://github.com/ChristianGobin/python_3/blob/master/mobile_suits_dict.py">
+      Notable Pilots and their corresponding mobile suits from the series Gundam.
+    </a>
   </dd>
 </dl>
