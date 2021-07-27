@@ -1,12 +1,7 @@
 def solution(string, ending):
-    end_len = len(ending) - 1
-    str_len = len(string) - 1
-    
-    # slice notation.
-    # get 
-    if ending in string and string[end_len : -1] == ending:
-        return True 
+    if ending in string:
+        if ending == '': #special case, empty string returns true.
+            return True
+        elif ending[-1] == string[-1]: #if last char of ending param is the same as last char of string param, then return true.
+            return True
     return False
-
-# Thinking: Take slice of string from end and check if equal to ending string
-# Also handle the empty string error. Should be True not false// All the time
