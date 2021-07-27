@@ -1,5 +1,6 @@
 # Python3
 <hr/>
+<img src="https://www.codewars.com/users/ChristianGobin/badges/large"/>
 <ul>
   <li>Back-end development</li>
   <li>HackerRank</li>
