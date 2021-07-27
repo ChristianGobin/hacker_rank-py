@@ -14,7 +14,7 @@
 </h2>
 <dl>
   <dt>
-    <a href="https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/python"> Code Wars: String Ends With? </a>:construction:
+    <a href="https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/python"> Code Wars: String Ends With? </a>:white_check_mark:
   </dt>
   <dd>
     Define a function that takes 2 params: def ends_with(string, ending), Check if the string ends using the given characters of the ending parameter.
