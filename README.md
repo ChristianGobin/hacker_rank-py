@@ -15,6 +15,12 @@
 </h2>
 <dl>
   <dt>
+    <a href="https://www.codewars.com/kata/541c8630095125aba6000c00/train/python"> Code Wars: Sum of Digits </a>:construction:
+  </dt>
+  <dd>
+    Define a function that takes one param of type int, if the length of the int is > 1 -> add each individual number until only one remains.
+  </dd>
+  <dt>
     <a href="https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/python"> Code Wars: String Ends With? </a>:white_check_mark:
   </dt>
   <dd>
