@@ -7,6 +7,10 @@ def digital_root(n):
     x = 942
     z = str(x)
     y = z.split()
+    
+    y is an array containing the each digit in the initial param.
+    Need to recursively call length check while also creating new array of the new sum
+    
     total  = 0
     while 
     for i in y:
