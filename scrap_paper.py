@@ -50,4 +50,11 @@ def amper_names(names):
 	# need to return different values based on length of hash array.
 
 
+	
+	
+# *args takes any number of params and stores in tuple called args
+def print_items(*args):
+	for i in args:
+		print(i)
+
 
