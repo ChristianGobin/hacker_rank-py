@@ -2,12 +2,10 @@
 <hr/>
 <img src="https://www.codewars.com/users/ChristianGobin/badges/large"/>
 <ul>
-  <li>Back-end development</li>
+  <li>Data Structures and Algorithms </li>
   <li>HackerRank</li>
   <li>Code Wars</li>
   <li>Leet Code</li>
-  <li>Arduino</li>
-  <li>Flask</li>
 </ul>
 <hr/>
 <h2>
