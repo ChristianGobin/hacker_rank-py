@@ -100,11 +100,11 @@
     Given an array of ints, find the int that is unique
   </dd>
   <dt>
-  <a href="https://github.com/ChristianGobin/python_3/blob/master/mobile_suits_dict.py">
-    Mobile Suit API
-  </a>:construction:
+  RGB -> HEX Conversion Function
+  :construction:
   </dt>
   <dd>
-     Notable Pilots and their corresponding mobile suits from the series Gundam.
+     Define a function that takes 3 rgb int values and returns the correct hex code for the numbers
   </dd>
+  
 </dl>
