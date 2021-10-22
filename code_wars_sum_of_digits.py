@@ -1,22 +1,18 @@
 def digital_root(n):
-    # Keep adding the contents of n until the len = 1
-    answer = 0
-
-    """
-    Take input -> turn int to string -> split to array -> have running count of total -> keep computing until len(total) = 1
-    x = 942
-    z = str(x)
-    y = z.split()
+    # Find Length of n
+    # if n.len > 1 -> continue adding each int of n until n.len = 1
+    # input type = non negative int.
     
-    y is an array containing the each digit in the initial param.
-    Need to recursively call length check while also creating new array of the new sum
-    
-    total  = 0
-    while 
-    for i in y:
-        for x in i:
-            total = total + int(x)
-    
-    print(total)
-    """
-    
+    # convert n to string then parse then change each item of n back to int
+    # finally loop through and add and update n until n.len = 1
+    new_n = [int(x) for x in str(n)]
+    len_of_n = len(new_n)
+    if(len_of_n > 1):
+        answer = 0
+        while len(new_n) != 1:
+            for i in new_n:
+                answer = answer + i
+                new_n.remove(i)
+        return answer
+    else:
+        return answer
