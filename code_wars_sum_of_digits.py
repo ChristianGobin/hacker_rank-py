@@ -11,8 +11,12 @@ def digital_root(n):
         answer = 0
         while len(new_n) != 1:
             for i in new_n:
-                answer = answer + i
+                answer += i
                 new_n.remove(i)
         return answer
     else:
         return answer
+
+
+
+print(digital_root(22))
