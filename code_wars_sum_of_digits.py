@@ -16,7 +16,17 @@ def digital_root(n):
         return answer
     else:
         return answer
-
-
-
-print(digital_root(22))
+########################################################
+def digital_rot_v2(n):
+    array_nums = [int(x) for x in str(n)]
+    len_n = len([int(x) for x in str(n)])
+    answer = 0
+    ans_found = False
+    while(ans_found != True):
+        if(len_n == 1):
+            print(n)
+            ans_found = True
+            return n
+        else:
+            for num in array_nums:
+                answer += num
