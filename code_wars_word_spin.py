@@ -10,15 +10,11 @@ def reverse_word(_str):
   print(answer)
   
   
-def reverses_string(_str):
-  reversed = []
-  index = len(_str)
-  while index > 0:
-    reversed.append(_str[index - 1])
-    index = index - 1
-  
-  reversed_string = ""
-  reversed_string = reversed_string.join(reversed)
-  print(reversed_string)
-
-reverse_word("Kid Gobin")
+def flip_word(some_var):
+    index = len(some_var)
+    flipped_word_array = []
+    while index > 0:
+        flipped_word_array.append(some_var[index - 1])
+        index = index - 1
+    flipped_word = "".join(flipped_word_array)
+    return(flipped_word)
