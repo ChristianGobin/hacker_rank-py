@@ -1,5 +1,16 @@
-my_str = "Hello"
-def reverse(_str):
+# Function reverses all words of array and returns a reversed string.
+# Get to spin the words that are of len 5 or greater.
+
+
+def reverse_word(_str):
+  answer = [word for word in _str.split(" ")]
+  for word in answer:
+    if len(word) >= 5:
+      
+  print(answer)
+  
+  
+def reverses_string(_str):
   reversed = []
   index = len(_str)
   while index > 0:
@@ -8,7 +19,6 @@ def reverse(_str):
   
   reversed_string = ""
   reversed_string = reversed_string.join(reversed)
-  print reversed_string
+  print(reversed_string)
 
-
-reverse("Hello world as")
+reverse_word("Kid Gobin")
