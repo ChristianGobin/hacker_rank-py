@@ -2,14 +2,16 @@
 # Get to spin the words that are of len 5 or greater.
 
 
-def reverse_word(_str):
-  answer = [word for word in _str.split(" ")]
-  for word in answer:
-    if len(word) >= 5:
-      
-  print(answer)
-  
-  
+def spin_words(sentence):
+    sentence = sentence.split(" ")
+    answer = " "
+    for index, word in enumerate(sentence):
+        if len(word) >= 5:
+            sentence[index] = flip_word(word)
+    answer = answer.join(sentence)
+    return answer
+
+
 def flip_word(some_var):
     index = len(some_var)
     flipped_word_array = []
