@@ -113,7 +113,7 @@
     Create a function that takes a Roman numeral as its argument and returns its value as a numeric decimal integer. You don't need to validate the form of the Roman numeral.
   </dd>
   <dt>
-    <a href="https://www.codewars.com/kata/5279f6fe5ab7f447890006a7/train/python">Code Wars: Training on Pick Peaks</a>
+    <a href="https://www.codewars.com/kata/5279f6fe5ab7f447890006a7/train/python">Code Wars: Training on Pick Peaks</a>:construction:
   </dt>
   <dd>
     Write a function that returns the positions and the values of the "peaks" (or local maxima) of a numeric array. Both position and value.
