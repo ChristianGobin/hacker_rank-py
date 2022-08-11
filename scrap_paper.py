@@ -58,3 +58,15 @@ def print_items(*args):
 		print(i)
 
 
+
+
+class Person:
+	def __init__(self) -> None:
+		self.name = "Unnamed"
+		self.age = 0
+	
+	def say_name():
+		print(self.name)
+
+John = Person()
+John.say_name()
