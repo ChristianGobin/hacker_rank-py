@@ -16,7 +16,8 @@
     <a href="https://www.codewars.com/kata/5264d2b162488dc400000001/train/python"> Code Wars: Word Spinning </a>:white_check_mark:
   </dt>
   <dd>
-    Write a function that takes in a string of one or more words, and returns the same string, but with all five or more letter words reversed (like the name of this kata).
+    Write a function that takes in a string of one or more words, and returns the same string, but with all five or more letter words reversed (like the
+    name of this kata).
   </dd>
   <dt>
     <a href="https://www.codewars.com/kata/541c8630095125aba6000c00/train/python"> Code Wars: Sum of Digits </a>:construction:
@@ -74,10 +75,11 @@
     Constraint -> Must be 4 or 6 ints long. Must be all digit data type.
   </dd>
   <dt>
-    <a href="https://www.codewars.com/kata/54da539698b8a2ad76000228/train/python">Code Wars: Take a Ten Minute Walk</a>:construction:
+    <a href="https://www.codewars.com/kata/54da539698b8a2ad76000228/train/python">Code Wars: Take a Ten Minute Walk</a>:white_check_mark:
   </dt>
   <dd>
-    inc
+    Create a function that will return true if the walk the app gives you will take you exactly ten minutes (you don't want to be early or late!) and
+    will, of course, return you to your starting point. Return false otherwise.
   </dd>
   <dt>
     <a href="https://www.codewars.com/kata/552c028c030765286c00007d/train/python">Code Wars: IQ Test</a>:white_check_mark:
@@ -89,9 +91,8 @@
     <a href ="https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/python"> Code Wars: Training on Growth of a Population </a>:white_check_mark:
   </dt>
   <dd>
-    In a small town the population is p0 = 1000 at the beginning of a year. The population regularly increases by 2 percent per year and moreover 50 new inhabitants per year
-    come to live in the town. 
-    How many years does the town need to see its population greater or equal to p = 1200 inhabitants?
+    In a small town the population is p0 = 1000 at the beginning of a year. The population regularly increases by 2 percent per year and moreover 50 new
+    inhabitants per year come to live in the town. How many years does the town need to see its population greater or equal to p = 1200 inhabitants?
   </dd>
   <dt>
     <a href="https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/python">Code Wars: Find the unique number </a>:white_check_mark:
@@ -110,7 +111,8 @@
     <a href="https://www.codewars.com/kata/51b6249c4612257ac0000005/train/python">Code Wars: Training on Roman Numerals Decoder</a>:construction:
   </dt>
   <dd>
-    Create a function that takes a Roman numeral as its argument and returns its value as a numeric decimal integer. You don't need to validate the form of the Roman numeral.
+    Create a function that takes a Roman numeral as its argument and returns its value as a numeric decimal integer. You don't need to validate the form
+    of the Roman numeral.
   </dd>
   <dt>
     <a href="https://www.codewars.com/kata/5279f6fe5ab7f447890006a7/train/python">Code Wars: Training on Pick Peaks</a>:construction:
