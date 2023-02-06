@@ -133,4 +133,12 @@
     You live in the city of Cartesia where all roads are laid out in a perfect grid. You arrived ten minutes too early to an appointment, so you decided
     to take the opportunity to go for a short walk.
   </dd>
+  <dt>
+    <a href="https://www.codewars.com/kata/517abf86da9663f1d2000003/train/python">Code Wars: convertStringToCamelCase</a> :white_check_mark:
+  </dt>
+  <dd>
+    Complete the method/function so that it converts dash/underscore delimited words into camel casing. The first word within the output should be
+    capitalized only if the original word was capitalized (known as Upper Camel Case, also often referred to as Pascal case). The next words should be
+    always capitalized.
+  </dd>
 </dl>
