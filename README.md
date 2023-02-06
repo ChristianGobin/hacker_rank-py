@@ -126,4 +126,11 @@
   <dd>
     Your code must return true or false (not 'true' and 'false') depending upon whether the given number is a Narcissistic number in base 10. 
   </dd>
+    <dt>
+    <a href="https://www.codewars.com/kata/54da539698b8a2ad76000228/train/python">Code Wars: Take a Ten Minutes Walk</a> :white_check_mark:
+  </dt>
+  <dd>
+    You live in the city of Cartesia where all roads are laid out in a perfect grid. You arrived ten minutes too early to an appointment, so you decided
+    to take the opportunity to go for a short walk.
+  </dd>
 </dl>
