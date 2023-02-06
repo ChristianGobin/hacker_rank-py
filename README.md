@@ -121,7 +121,7 @@
     Write a function that returns the positions and the values of the "peaks" (or local maxima) of a numeric array. Both position and value.
   </dd>
   <dt>
-    <a href="https://www.codewars.com/kata/5287e858c6b5a9678200083c/train/python">Code Wars: Does my number look big in this?</a>:white_check_mark:
+    <a href="https://www.codewars.com/kata/5287e858c6b5a9678200083c/train/python">Code Wars: Does my number look big in this?</a> :white_check_mark:
   </dt>
   <dd>
     Your code must return true or false (not 'true' and 'false') depending upon whether the given number is a Narcissistic number in base 10. 
